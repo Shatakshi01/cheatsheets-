@@ -1,19 +1,21 @@
+# MySQL CHEAT SHEET 
+## 
 ```Mysql
 mysql -u root -p
 ```
-
+###  SELECT USER
 ```
  SELECT User, Host FROM mysql.user;
  ```
-
+###  GET LIST OF DATABASES 
  ```
  SHOW DATABASES;
  ```
-
+### SELECT DB TO WORK IN 
  ```
 USE dbmslab1;
  ```
-
+### LIST OF TABLES IN IT 
  ```
   SHOW TABLES;
   ```
